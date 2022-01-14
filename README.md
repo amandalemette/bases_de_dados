@@ -33,8 +33,7 @@ Data has 25 feattures which may predict a patient with chronic kidney disease
 
 <h2 id="Acesso ao arquivo .csv já tratado"><a href="https://github.com/amandalemette/bases_de_dados/blob/0c3c8c8926fa2031f3770b787e036e0aab8ba3a7/02_Chronic%20Kidney%20Disease/ckdisease.csv">Acesso ao arquivo .csv já tratado</a></h2>
 
-Para fazer o download somente desse arquivo aqui no GitHub, acesse o link: https://downgit.github.io/#/home
-Cole nesse site o permalink do arquivo acima: https://bit.ly/3KaplCK
+Para fazer o download somente desse arquivo aqui no GitHub, acesse o link: https://bit.ly/3Guen8J
 
 Essa base de dados contém muitos dados faltantes. 
 
