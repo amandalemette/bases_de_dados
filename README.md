@@ -31,6 +31,8 @@ Data has 25 feattures which may predict a patient with chronic kidney disease
 
 [Acesso a base de dados no Kaggle](https://www.kaggle.com/mansoordaku/ckdisease)
 
+- <h2 id="Acesso ao arquivo .csv já tratado"><a href="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/tree/main/Aula03">Acesso ao arquivo .csv já tratado</a></h2>
+
 Essa base de dados contém muitos dados faltantes. 
 
 A base de dados foi construída em um período de 2 meses na India e contém 25 atributos:
