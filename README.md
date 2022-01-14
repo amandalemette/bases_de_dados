@@ -25,3 +25,20 @@ Colunas de dados incluem:
 <p align="center">
 <img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
 </p>
+
+# 2. Chronic KIdney Disease dataset
+Data has 25 feattures which may predict a patient with chronic kidney disease
+
+[Acesso a base de dados no Kaggle](https://www.kaggle.com/mansoordaku/ckdisease)
+
+Essa base de dados contém muitos dados faltantes. 
+
+A base de dados foi construída em um período de 2 meses na India e contém 25 atributos. 
+
+O objetivo é classificar cada registro como 'ckd' ou 'notckd' onde ckd significa doença de rim crônica (chronic kidney disease).
+
+Temos 400 registros no total. 
+
+
+
+
