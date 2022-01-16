@@ -77,19 +77,19 @@ Excelente pré-tratamento feito a essa base de dados: https://www.kaggle.com/equ
 
 # 3. Fuel Efficiency Dataset
 
-<h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/0c3c8c8926fa2031f3770b787e036e0aab8ba3a7/02_Chronic%20Kidney%20Disease/ckdisease.csv">Acesso ao arquivo .csv</a></h2>
+<h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/a8d8816dc4fad138dd1b4ee672f836912e0ebf52/03_FuelEfficiency/FuelEfficiency.csv">Acesso ao arquivo .csv</a></h2>
 
 Dados armazenados no arquivo:
-Mfr Name = empresa que fez o carro
-Carline = marca do carro
-Eng Displ = Cilindrada do motor
-Cylinders = quantos cilindros o carro possui
-Transmission = tipo de transmissão
-MPG = Miles per gallon
-CityMPG = milhas da cidade por galão
-HwyMPG = milhas rodoviárias por galão
-CombMPG = City+Hwy
-gears = número de marchas que o carro tem<img width="433" alt="image" src="https://user-images.githubusercontent.com/20176081/149673540-04966539-d24d-4120-9911-3119499c11f7.png">
+- Mfr Name = empresa que fez o carro
+- Carline = marca do carro
+- Eng Displ = Cilindrada do motor
+- Cylinders = quantos cilindros o carro possui
+- Transmission = tipo de transmissão
+- MPG = Miles per gallon
+- CityMPG = milhas da cidade por galão
+- HwyMPG = milhas rodoviárias por galão
+- CombMPG = City+Hwy
+- gears = número de marchas que o carro tem
 
 
 <p align="center">
