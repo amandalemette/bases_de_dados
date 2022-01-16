@@ -80,6 +80,7 @@ Excelente pré-tratamento feito a essa base de dados: https://www.kaggle.com/equ
 <h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/a8d8816dc4fad138dd1b4ee672f836912e0ebf52/03_FuelEfficiency/FuelEfficiency.csv">Acesso ao arquivo .csv</a></h2>
 
 Dados armazenados no arquivo:
+
 - Mfr Name = empresa que fez o carro
 - Carline = marca do carro
 - Eng Displ = Cilindrada do motor
