@@ -103,6 +103,8 @@ Dados armazenados no arquivo:
 
 O Relatório de Felicidade Mundial é uma pesquisa histórica do estado de felicidade global. O primeiro relatório foi publicado em 2015. O World Happiness 2017, que classifica 155 países por seus níveis de felicidade, foi lançado nas Nações Unidas em um evento que celebra o Dia Internacional da Felicidade em 20 de março. O relatório continua a ganhar reconhecimento global à medida que governos, organizações e sociedade civil usam cada vez mais indicadores de felicidade para informar suas decisões de formulação de políticas. Os principais especialistas em todos os campos - economia, psicologia, análise de pesquisas, estatísticas nacionais, saúde, políticas públicas e muito mais - descrevem como as medições de bem-estar podem ser usadas de forma eficaz para avaliar o progresso das nações. Os relatórios analisam o estado da felicidade no mundo hoje e mostram como a nova ciência da felicidade explica as variações pessoais e nacionais da felicidade.
 
+Acesso a base de dados no Kaggle: https://www.kaggle.com/mathurinache/world-happiness-report-20152021
+
 Cada arquivo csv contém 12 colunas:
 
 - 'Country'
