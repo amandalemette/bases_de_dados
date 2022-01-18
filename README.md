@@ -97,3 +97,29 @@ Dados armazenados no arquivo:
 <p align="center">
 <img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
 </p>
+
+
+# 4. World Happiness Report
+
+O Relatório de Felicidade Mundial é uma pesquisa histórica do estado de felicidade global. O primeiro relatório foi publicado em 2015. O World Happiness 2017, que classifica 155 países por seus níveis de felicidade, foi lançado nas Nações Unidas em um evento que celebra o Dia Internacional da Felicidade em 20 de março. O relatório continua a ganhar reconhecimento global à medida que governos, organizações e sociedade civil usam cada vez mais indicadores de felicidade para informar suas decisões de formulação de políticas. Os principais especialistas em todos os campos - economia, psicologia, análise de pesquisas, estatísticas nacionais, saúde, políticas públicas e muito mais - descrevem como as medições de bem-estar podem ser usadas de forma eficaz para avaliar o progresso das nações. Os relatórios analisam o estado da felicidade no mundo hoje e mostram como a nova ciência da felicidade explica as variações pessoais e nacionais da felicidade.
+
+Cada arquivo csv contém 12 colunas:
+
+- 'Country'
+- 'Region'
+- 'Happiness Rank' 
+- 'Happiness Score'
+- 'Standard Error'
+- 'Economy (GDP per Capita)'
+- 'Family'
+- 'Health (Life Expectancy)'
+- 'Freedom'
+- 'Trust (Government Corruption)'
+- 'Generosity'
+- 'Dystopia Residual'
+
+Quais são os resíduos?
+
+Os resíduos, ou componentes não explicados, diferem para cada país, refletindo até que ponto as seis variáveis (Economy (GDP per Capita), Family, health, freedom, trust, generosity) super ou subexplicam as avaliações de vida médias.
+
+A métrica de distopia residual é, na verdade, a pontuação de felicidade da distopia + o valor residual para cada país.
