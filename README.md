@@ -123,3 +123,7 @@ Quais são os resíduos?
 Os resíduos, ou componentes não explicados, diferem para cada país, refletindo até que ponto as seis variáveis (Economy (GDP per Capita), Family, health, freedom, trust, generosity) super ou subexplicam as avaliações de vida médias.
 
 A métrica de distopia residual é, na verdade, a pontuação de felicidade da distopia + o valor residual para cada país.
+
+<p align="center">
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
+</p>
