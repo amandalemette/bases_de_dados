@@ -134,8 +134,8 @@ A métrica de distopia residual é, na verdade, a pontuação de felicidade da d
 
 Acesso a base de dados no Kaggle:  https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-<h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/a8d8816dc4fad138dd1b4ee672f836912e0ebf52/03_FuelEfficiency/FuelEfficiency.csv">Acesso ao arquivo .csv</a></h2>
-Download direto da base de dados:
+<h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/52fb600ba9ae57dd7a2967b89ba8a10106699011/05_Pima_Indians_Diabetes/diabetes.csv">Acesso ao arquivo .csv</a></h2>
+Download direto da base de dados: https://downgit.github.io/#/home?url=https://github.com/amandalemette/bases_de_dados/blob/52fb600ba9ae57dd7a2967b89ba8a10106699011/05_Pima_Indians_Diabetes/diabetes.csv
 
 
 It is a binary classification problem (onset of diabetes as 1 or not as 0). The input variables that describe each patient are numerical and have varying
