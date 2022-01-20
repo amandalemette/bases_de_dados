@@ -129,3 +129,31 @@ A métrica de distopia residual é, na verdade, a pontuação de felicidade da d
 <p align="center">
 <img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
 </p>
+
+# 5. Pima Indians Diabetes Database
+
+Acesso a base de dados no Kaggle:  https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+<h2 id="Acesso ao arquivo .csv"><a href="https://github.com/amandalemette/bases_de_dados/blob/a8d8816dc4fad138dd1b4ee672f836912e0ebf52/03_FuelEfficiency/FuelEfficiency.csv">Acesso ao arquivo .csv</a></h2>
+Download direto da base de dados:
+
+
+It is a binary classification problem (onset of diabetes as 1 or not as 0). The input variables that describe each patient are numerical and have varying
+scales. Below lists the eight attributes for the dataset:
+
+1. Number of times pregnant.
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
+3. Diastolic blood pressure (mm Hg).
+4. Triceps skin fold thickness (mm).
+5. 2-Hour serum insulin (mu U/ml).
+6. Body mass index.
+7. Diabetes pedigree function.
+8. Age (years).
+9. Class, onset of diabetes within five years.
+
+
+
+
+<p align="center">
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
+</p>
