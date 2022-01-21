@@ -171,6 +171,18 @@ iris species. The attributes for this dataset can be summarized as follows:
 4. Petal width in centimeters.
 5. Class.
 
+<p align="center">
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
+</p>
+
+# 7. Sonar dataset
+
+Acesso à base: https://archive.ics.uci.edu/ml/machine-learning-databases/undocumented/connectionist-bench/sonar/sonar.all-data
+
+This is a dataset that describes
+sonar chirp returns bouncing o↵ di↵erent surfaces. The 60 input variables are the strength of
+the returns at di↵erent angles. It is a binary classification problem that requires a model to
+di↵erentiate rocks from metal cylinders.
 
 
 
