@@ -152,6 +152,26 @@ scales. Below lists the eight attributes for the dataset:
 9. Class, onset of diabetes within five years.
 
 
+<p align="center">
+<img src="https://github.com/amandalemette/Visualizacao-de-Dados-em-Python/blob/298a631c27f66a487eafd5a274552b2adf7a9c17/Images/section_divider3.png?raw=true"/>
+</p>
+
+# 6. Iris Dataset
+
+Acesso à base: http://archive.ics.uci.edu/ml/machine-learning-datasets/iris/iris.data
+
+This dataset is well studied and is a good problem for practicing on neural networks because
+all of the 4 input variables are numeric and have the same scale in centimeters. Each instance
+describes the properties of an observed flower measurements and the output variable is specific
+iris species. The attributes for this dataset can be summarized as follows:
+
+1. Sepal length in centimeters.
+2. Sepal width in centimeters.
+3. Petal length in centimeters.
+4. Petal width in centimeters.
+5. Class.
+
+
 
 
 <p align="center">
